@@ -39,7 +39,7 @@ Indeed, it is an irony that much of the work that went into designing the intern
 
 #+CAPTION: From "[[http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/][Rent Seeking by Elsevier]]." by Alejandro Posada and George Chen (Showing all of the companies along the pipeline owned by Elsevier). 
 #+NAME:   fig:RentSeeking1
-[[~/Desktop/with-companies.png]]
+[[./with-companies.png]]
 
 
 Because if the platform capitalism of today has ended up being parasitic on the free software tools and infrastructures that enabled it, then why would this not also be true of science and scholarship more generally?  Are we not witnessing a transition to a world where science and scholarship are directed---in their very content and organization---towards the profitability of the platforms that ostensibly serve it? (See, e.g. Figure 1 from [[http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/][this post]])  Is it not possible, that the platforms created to "serve science" ---Elsevier's increasing acquisition of tools to control the entire life-cycle of research, or ResearchGate's ambition to become the single source for all academics to network and share research---that these platforms might actually end up warping the very content of scientific and scholarly production in the service of their profitability?  Perhaps we are too late?  If we wonder, today, why science seems to have so little effect on the world around us, perhaps it is because it has forsaken its duty to govern itself?
