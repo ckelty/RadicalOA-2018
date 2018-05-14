@@ -12,12 +12,15 @@
 
 
 * Recursive Publics and Open Access (Version 1)
+
+#+BEGIN_EXPORT latex
 \maketitle
 \onehalfspacing 
+#+END_EXPORT
 
 Ten years ago, I published a book with Duke University Press called [[https://twobits.net/download/index.html][Two Bits: The Cultural Significance of Free Software]] (cite:kelty2008twobits). The Press, and my editor Ken Wissoker, were enthusiastically accommodating of my demands to make the book freely and openly available.  Not only that, they also played along with my desire to release the "source code" of the book (i.e. HTML files of the chapters with minimal markup), and to compare the data on readers of the open version to buyers of the print.  It was a moment of exploration for both scholarly presses and for me. 
 
-At the time, few authors were doing this other than Yochai Benkler (cite:benkler2007wealnetw) and [[https://craphound.com/][Cory Doctorow]], both of whom have also been activists and advocates for free software and open access, much as I have been.  We all shared, I think, a certain fanaticism of the convert that came from recognizing free software as an historically new, and radically different mode of organizing economic and political activity in Europe and America. /Two Bits/ gave me a way to talk not only about free software, but about open access and the politics of the university (cite:kelty2008anthincirc,kelty2014beyoncopytech).  It led me to engage in years of activism and writing on behalf of the ideas of open access and open science (see e.g. [[https://osc.universityofcalifornia.edu/open-access-policy/policy-history/][UC Open Access Policy]], cite:kelty_outlaw_2010) as well as the work I have done since then investigating participation (cite:fish2011birdinter,kelty2014sevendimen,kelty2018twomodespart). 
+At the time, few authors were doing this other than Yochai Benkler (cite:benkler2007wealnetw) and [[https://craphound.com/][Cory Doctorow]], both of whom have also been activists and advocates for free software and open access, much as I have been.  We all shared, I think, a certain fanaticism of the convert that came from recognizing free software as an historically new, and radically different mode of organizing economic and political activity in Europe and America. /Two Bits/ gave me a way to talk not only about free software, but about open access and the politics of the university (cite:kelty2008anthincirc,kelty2014beyoncopytech).  It led me to engage in years of activism and writing on behalf of the ideas of open access and open science (see e.g. [[https://osc.universityofcalifornia.edu/open-access-policy/policy-history/][UC Open Access Policy]], cite:kelty_outlaw_2010) as well as the work I have done since then investigating participation (cite:fish2011birdinter,kelty2018twomodespart). 
 
 Ten years later, I admit to a certain pessimism, if not outright depression at the way things have turned out.  Even barring the revelations of NSA spying, the destructive concentrated power of platform capitalism, and the proliferation of the worst forms of online hatred---the promise of free software has foundered, though it has not disappeared, and the question of what it means to achieve open access---or the goals of open access---has been swamped by concerns about costs, arcane details of repositories and versioning, and ritual offerings to the metrics God.  
 
@@ -108,7 +111,10 @@ Although this is a pessimistic portrait, it may also be a sign of something yet 
   
 One might, as a result, choose to throw out liberalism altogether as a broken philosophy of governance and liberation.  But it might also be an opportunity to focus much more specifically on a particular problem of liberalism, one that the discourse or open access also relies on to a large extent.  Perhaps it is not the case that merit derives solely from the content of utterances freely and openly circulated, but also from the /ways in which they are uttered, and the dignity of the people who utter them/.  An open access (or a free software) that embraced that principle would demand that we pay attention to different problems:  how are our platforms, infrastructures, tools organized and built to support not just the circulation of putatively true statements, but the ability to say them in situated and particular ways, with respect for the dignity of who is saying them, and with the freedom to explore the limits of /that/ kind of liberalism, should we be so lucky to achieve it. 
  
+#+BEGIN_EXPORT latex
  \printbibliography
+#+END_EXPORT
+
 
 
 
