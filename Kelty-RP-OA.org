@@ -3,7 +3,7 @@
 #+OPTIONS: num:nil  toc:nil ':t
 #+AUTHOR: Christopher Kelty
 #+DATE: \today
-#+LATEX_HEADER: \usepackage[citestyle=authoryear,bibstyle=authoryear, hyperref=true,backref=false,maxcitenames=3,url=false,eprint=false,doi=true,backend=biber,natbib=true] {biblatex}
+#+LATEX_HEADER: \usepackage[style=chicago-authordate,hyperref=true,backref=false,maxcitenames=3,url=false,isbn=false,eprint=false,doi=true,backend=biber,natbib=true] {biblatex}
 #+LATEX_HEADER: \addbibresource{~/Dropbox/current_projects/RadicalOA-2018/Kelty-RP-OA.bib}
 #+LATEX_HEADER: \usepackage{libertine}
 #+LATEX_HEADER: \usepackage{libertinust1math}
